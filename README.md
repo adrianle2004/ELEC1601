@@ -110,7 +110,7 @@ This project is an Arduino-based robot that navigates and solves a maze using th
 
 ## 📂 File
 
-- `major_project_elec1601` – Complete Arduino sketch
+- `major_project_elec1601.ino` – Complete Arduino sketch
 
 ---
 
